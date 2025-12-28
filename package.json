@@ -1,0 +1,11 @@
+{
+  "name": "sweetshop-playwright",
+  "version": "1.0.0",
+  "description": "Playwright tests for Sweet Shop website - SE302 Homework 02",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.42.0"
+  }
+}
